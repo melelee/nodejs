@@ -1,5 +1,1 @@
-/.idea/.gitignore
-/.idea/jsLibraryMappings.xml
-/.idea/modules.xml
-/.idea/nodejs.iml
-/.idea/vcs.xml
+/.idea/*

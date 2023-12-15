@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "uniq": "^1.0.1"
+    "jquery": "^3.7.1",
+    "uniq": "^1.0.0"
+  },
+  "devDependencies": {
+    "less": "^4.2.0"
   }
 }

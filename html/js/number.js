@@ -36,3 +36,7 @@ x = 'qwe';
 console.log(window.isNaN(x));
 x = NaN;
 console.log(window.isNaN(x));
+
+
+console.log(NaN==NaN)
+console.log(NaN===NaN)
